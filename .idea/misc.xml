@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/education-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/education-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/education-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/educaiton-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/educaiton-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/education-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/education-manage-studentservice/pom.xml" />
+        <option value="$PROJECT_DIR$/education-manage-studentweb/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

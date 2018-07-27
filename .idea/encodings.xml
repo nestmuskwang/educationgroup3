@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/educaiton-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/educaiton-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-manage-studentservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-manage-studentweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-web-util" charset="UTF-8" />
+  </component>
+</project>
